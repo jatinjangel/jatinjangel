@@ -1,4 +1,4 @@
-# I'm Jatin Jangel
+                                                                                         # I'm Jatin Jangel
 Aspiring DevOps Engineer with 6 months of hands-on CloudBlitz experience, working on real-world DevOps labs and cloud-based projects. Strong foundation in Linux system administration, Git/GitHub, and AWS cloud services. Experienced in building and maintaining CI/CD pipelines using Jenkins and GitHub Actions, along with containerization using Docker and orchestration with Kubernetes.<br><br>Skilled in Infrastructure as Code (Terraform), configuration management using Ansible, and monitoring & logging with Prometheus, Grafana, and ELK Stack. Passionate about automation, scalable cloud infrastructure, and reliable application deployments, with continuous learning through practical implementation.
 
 
